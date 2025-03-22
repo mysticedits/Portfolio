@@ -29,7 +29,6 @@ const Experience: React.FC<{}> = () => {
             March 2025 - Present, United States
           </p>
         </div>
-
         <p className="text-gray-300 pt-5">
           Currently, I am working on Youtube projects for other people,
           most are small but soon I will be working with a big youtuber to 
