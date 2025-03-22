@@ -23,6 +23,8 @@ const Experience: React.FC<{}> = () => {
               <span className="font-semibold">Video Editor and Designer /</span> Digital Design and Video Producer
             </p>
           </div>
+          </div>
+        </div>
           <p className="text-gray-300 md:pt-0 pt-3">
             March 2025 - Present, United States
           </p>
