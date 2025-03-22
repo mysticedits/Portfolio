@@ -20,11 +20,11 @@ const Experience: React.FC<{}> = () => {
               alt={"Ibrahim Memon - UX Experience"}
             />
             <p className="text-gray-300 ">
-              <span className="font-semibold">WebHR /</span> Software Engineer
+              <span className="font-semibold">Video Editor and Designer /</span> Digital Design and Video Producer
             </p>
           </div>
           <p className="text-gray-300 md:pt-0 pt-3">
-            May 2022 - Present, United States
+            March 2025 - Present, United States
           </p>
         </div>
 
