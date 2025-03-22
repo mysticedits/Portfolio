@@ -9,31 +9,31 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ibiimemon.com/"),
-  title: "Ibrahim Memon - SWE | IXD | UX - Developer Portfolio",
+  metadataBase: new URL("https://mysticprofolio.netlify.app/"),
+  title: "Mystic | Editor",
   description:
-    "Developer Portfolio of Frontend & Mobile App Developer from Pakistan with 3+ years of expertise. Senior Software Engineer. Specializing mobile apps, UX, and JavaScript technologies.",
+    "Professional Digital Design/Video Producer from Florida with 3+ years of expertise.",
   keywords: [
-    "Developer",
+    "Video Editor",
     "Portfolio",
-    "Developer Portflio",
-    "Ibrahim Memon",
-    "Ibrahim",
-    "IbiiMemon",
-    "IbrahimMemon",
-    "Ibrahim_Memon",
+    "Edit Portflio",
+    "Mystic Edits",
+    "Mystic",
+    "Edit Tutorial",
+    "Video Editing",
+    "Video editing",
     "Next.js",
     "ReactNative",
     "Android",
   ],
   openGraph: {
-    title: "Ibrahim Memon - SWE | IXD | UX",
+    title: "Mystic | Editor",
     description:
-      "Frontend & Mobile App Developer from Pakistan with 3+ years of expertise. Senior Software Engineer. Specializing mobile apps, UX, and JavaScript technologies.",
+      "Professional Digital Design/Video Producer from Florida with 3+ years of expertise.",
     images: "/OpenGraph.jpg",
   },
   alternates: {
-    canonical: "https://ibiimemon.com/",
+    canonical: "https://mysticprofolio.netlify.app/",
   },
 };
 export default function RootLayout({
@@ -51,11 +51,11 @@ export default function RootLayout({
               "@context": "http://schema.org",
               "@type": "Person",
               name: "Ibrahim Memon",
-              jobTitle: "Software Engineer",
-              url: "https://ibiimemon.com",
+              jobTitle: "Digital Design/Video Producer",
+              url: "https://mysticprofolio.netlify.app/",
               sameAs: [
-                "https://www.linkedin.com/in/ibrahimmemonn/",
-                "https://github.com/ibrahimmemonn",
+                "https://discord.gg/dhvKyd7w5k",
+                "https://youtube.com/@mysticsaetutorials",
               ],
             }),
           }}
