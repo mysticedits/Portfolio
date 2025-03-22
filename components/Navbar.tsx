@@ -13,7 +13,7 @@ const Navbar: React.FC<{}> = () => {
           className="h-auto w-auto flex flex-row items-center"
         >
           <Image
-            src="/Logo.svg"
+            src="/Logo.png"
             alt="Mystic | Editor"
             width={100}
             height={100}
