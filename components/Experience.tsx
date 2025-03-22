@@ -29,21 +29,15 @@ const Experience: React.FC<{}> = () => {
         </div>
 
         <p className="text-gray-300 pt-5">
-          Currently, I am working on WebHR Mobile Application, WebHR is a Cloud
-          based Social HR Software for SMEs by Verge Systems Inc. WebHR is
-          currently used in over 160 countries world wide by thousands of
-          organizations to manage HR, As a React.js developer with 2.5 year of
-          experience, I have a strong foundation in creating dynamic and
-          responsive mobile and web applications.
+          Currently, I am working on Youtube projects for other people,
+          most are small but soon I will be working with a big youtuber to 
+          get my brand going! I also do commisions on the side for graphics
+          and video productions for other people and charging a small fee.
           <br />
           <br />
-          My experience with React Native has allowed me to develop
-          cross-platform mobile applications that run seamlessly on both iOS and
-          Android platforms. Additionally, my proficiency in React.js has
-          equipped me with the skills to create fast, scalable, and dynamic web
-          pages with excellent user experiences. I have a deep understanding of
-          component-based architecture and state management, and I am
-          well-versed in the latest web development trends and technologies.
+          My experience with Premier Pro and Photoshop is so great I am even certified!
+          I use many platforms (mostly Adobe) to greatly improve the speed of my editing,
+          while maintaining the great quality my clients cherish! 
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
