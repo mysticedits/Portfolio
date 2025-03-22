@@ -13,16 +13,16 @@ const Banner: React.FC<{}> = () => {
             src="/Me.png"
             height={250}
             width={250}
-            alt="Ibrahim Memon"
+            alt="Mystic"
           />
         </div>
 
         <div className="flex flex-col gap-6 mt-10 cursor-pointer animate-bounce tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
-          Ibrahim Memon!
+          Mystic!
         </div>
         <div className="flex justify-center">
           <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
-            I do Code &{" "}
+            I do Graphic Design/Video Editing &{" "}
             <span className="text-transparent font-semibold  bg-clip-text bg-gradient-to-r from-purple-500 to-orange-400">
               Chill
             </span>
@@ -31,13 +31,13 @@ const Banner: React.FC<{}> = () => {
             src="/popcorn.gif"
             height={50}
             width={50}
-            alt="Ibrahim Memon"
+            alt="Mystic"
           />
         </div>
 
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Passionate Software Engineer with a focus on React Native development,
-          dedicated to crafting elegant and user-friendly mobile applications.
+          Passionate Digital Design and Video Producer,
+          dedicated to crafting elegant and personality matching content!
         </p>
         <div className="text-md flex justify-center">
           <button
