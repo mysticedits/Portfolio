@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     images: "/OpenGraph.jpg",
   },
   alternates: {
-    canonical: "https://mysticprofolio.netlify.app/",
+    canonical: "https://discord.gg/dhvKyd7w5k",
   },
 };
 export default function RootLayout({
