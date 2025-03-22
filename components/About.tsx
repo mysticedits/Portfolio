@@ -13,16 +13,14 @@ const About: React.FC<{}> = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a passionate software engineer, I thrive on the intricate dance
-          between logic and creativity. Currently immersed in the dynamic world
-          of WebHR, my expertise centers around React Native, where I seamlessly
-          blend technology with innovation.
+          I am a passionate and experienced professional video editor and graphic designer with a deep understanding of visual storytelling. 
+          Over the years, I’ve honed my skills in creating captivating and polished content that resonates with audiences across various platforms. 
+          Whether it’s editing dynamic videos or designing visually compelling graphics, I am committed to delivering high-quality work that exceeds expectations.
           <br />
           <br />
-          With a fervor for crafting elegant solutions, I navigate the
-          ever-evolving landscape of software development. My journey involves
-          translating concepts into code, creating seamless user experiences,
-          and constantly pushing the boundaries of what&#39;s possible
+          My expertise spans across Adobe Photoshop and Adobe Premiere Pro, tools that I use daily to bring ideas to life. 
+          These certifications have equipped me with advanced techniques in photo manipulation, video editing, motion graphics, and overall design principles.
+          I hold official certifications in both Photoshop and Premiere Pro, which reflect my proficiency and dedication to mastering these industry-standard tools.
         </p>
       </div>
     </section>
@@ -30,3 +28,4 @@ const About: React.FC<{}> = () => {
 };
 
 export default About;
+
